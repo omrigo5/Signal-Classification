@@ -6,4 +6,4 @@ Audio frequencies varies between 20 Hz to 20,000 Hz that requires very Fast samp
 Probably low SNR (Signal to Noise ratio)
 An unknown transmission of the window and setup
 
-(https://github.com/omrigo5/Signal-Classification/blob/master/objective.jpg)
+![](https://github.com/omrigo5/Signal-Classification/blob/master/objective.jpg)

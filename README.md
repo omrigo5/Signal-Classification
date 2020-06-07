@@ -5,3 +5,5 @@ The main goal of the project was to demonstrate remote optical eavesdroping. For
 Audio frequencies varies between 20 Hz to 20,000 Hz that requires very Fast sampling rate ( 20,000 Hz signal corresponds to sampling of 50μs) with "Tons" of data to record
 Probably low SNR (Signal to Noise ratio)
 An unknown transmission of the window and setup
+
+(https://github.com/omrigo5/Signal-Classification/blob/master/objective.jpg)
